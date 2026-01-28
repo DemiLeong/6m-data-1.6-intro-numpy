@@ -5,7 +5,7 @@ Environment: Google Colab or VS Code Jupyter
 
 ---
 
-## 0–10 min — Welcome & Outcomes
+## Welcome & Outcomes
 
 - Introduce the session and goals:
   - Understand what NumPy is and why it matters
@@ -14,7 +14,7 @@ Environment: Google Colab or VS Code Jupyter
 
 ---
 
-## 10–30 min — Part 1: Performance Benchmark
+## Part 1: Performance Benchmark
 
 Notebook: **“Part 1: Performance Benchmark”** section and code cell.[file:1]
 
@@ -27,7 +27,7 @@ Notebook: **“Part 1: Performance Benchmark”** section and code cell.[file:1]
 
 ---
 
-## 30–65 min — Part 2: The ndarray
+## Part 2: The ndarray
 
 Notebook: **“Part 2: The ndarray (N-dimensional array)”** and the demo cell creating `arr1` and `arr2`.[file:1]
 
@@ -42,7 +42,7 @@ Notebook: **“Part 2: The ndarray (N-dimensional array)”** and the demo cell 
 
 ---
 
-## 65–95 min — Data Types and Casting
+## Data Types and Casting
 
 Notebook: **“Data Types and Casting”** markdown and casting demo cell.[file:1]
 
@@ -61,9 +61,9 @@ Notebook: **“Data Types and Casting”** markdown and casting demo cell.[file:
 
 ---
 
-## 95–120 min — Guided Practice Block 1
+## Guided Practice 1
 
-Notebook: Re-use and extend the existing **Exercise 1** cell.[file:1]
+Notebook: Re-use and extend the existing **Exercise 1** cell.
 
 - Instructor adds a couple of extra prompts live:
   - Check `shape` and `dtype` of each created array
@@ -73,9 +73,9 @@ Notebook: Re-use and extend the existing **Exercise 1** cell.[file:1]
 
 ---
 
-## 120–150 min — Part 3: Arithmetic & Broadcasting (Intro)
+## Part 3: Arithmetic & Broadcasting (Intro)
 
-Notebook: **“Part 3: Arithmetic & Broadcasting”** markdown + empty “Your code here” cell.[file:1]
+Notebook: **“Part 3: Arithmetic & Broadcasting”** markdown + empty “Your code here” cell.
 
 - Concept (lightweight):
   - Elementwise arithmetic on arrays (no explicit loops)
@@ -89,9 +89,9 @@ Notebook: **“Part 3: Arithmetic & Broadcasting”** markdown + empty “Your c
 
 ---
 
-## 150–175 min — Guided Practice Block 2
+## Guided Practice 2
 
-Notebook: Extend Part 3’s “Your code here” cell with simple tasks.[file:1]
+Notebook: Extend Part 3’s “Your code here” cell with simple tasks.
 
 - Suggested prompts (typed by instructor into the cell / markdown above):
   - Create a 2D “sales” array and apply percentage increases
@@ -100,7 +100,7 @@ Notebook: Extend Part 3’s “Your code here” cell with simple tasks.[file:1]
 
 ---
 
-## 175–180 min — Wrap-up and Exit Ticket
+## Wrap-up and Exit Ticket
 
 - Recap key skills tied directly to notebook sections:
   - Performance benchmark (Part 1)
